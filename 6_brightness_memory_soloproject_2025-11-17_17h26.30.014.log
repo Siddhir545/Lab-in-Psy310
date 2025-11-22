@@ -1,0 +1,327 @@
+16.1863 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+16.2462 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+40.2406 	INFO 	Loaded monitor calibration from ['2025_08_06 23:00']
+40.2540 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1470, 956]. Using actual size
+40.3827 	INFO 	Using renderer 'Apple M2' for graphics
+40.3827 	INFO 	OpenGL version supported by driver is 2..
+40.4076 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x156a1bf40>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x156a1bee0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1562c6dd0>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(0.0), np.float64(0.0)], screen=0, size=array([2940, 1912]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+40.4077 	EXP 	window1: backgroundImage = ''
+40.4077 	EXP 	window1: backgroundFit = 'none'
+40.7111 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+40.7111 	EXP 	window1: recordFrameIntervals = False
+40.8446 	EXP 	window1: recordFrameIntervals = True
+41.6834 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+42.4182 	INFO 	keyboard.Keyboard is using ptb backend.
+42.6405 	INFO 	keyboard.Keyboard is using ptb backend.
+42.8637 	INFO 	keyboard.Keyboard is using ptb backend.
+43.0859 	INFO 	keyboard.Keyboard is using ptb backend.
+43.3090 	INFO 	keyboard.Keyboard is using ptb backend.
+43.5314 	INFO 	keyboard.Keyboard is using ptb backend.
+43.7539 	INFO 	keyboard.Keyboard is using ptb backend.
+43.7539 	EXP 	brightness_memory_soloproject: status = STARTED
+43.7845 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+43.7871 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+43.8049 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=True, flipHoriz=np.False_, flipVert=np.False_, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.6, 0.6]), texRes=128.0, units='height', win=Window(...))
+43.8106 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_4', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+43.8110 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+43.8154 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+43.8188 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.6, 0.6]), texRes=128.0, units='height', win=Window(...))
+43.8228 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+43.8286 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_6', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0112 	INFO 	Keyboard events cleared
+0.0111 	EXP 	text: autoDraw = True
+7.7116 	EXP 	Device response: <KeyPress from None: t=7.528230957999767, value=space, duration=None>
+7.7117 	EXP 	Device response: <KeyPress from None: t=7.528230957999767, value=space, duration=0.0921711660012079>
+7.7154 	EXP 	Imported Encoding_conditions.xlsx as conditions, 12 conditions, 2 params
+7.7158 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'imgfile': 'images/black3.jpg', 'img_brightness': 'bright', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+7.7249 	DATA 	Keypress: space
+7.7284 	WARNING 	t of last frame was 194.71ms (=1/5)
+7.7284 	EXP 	text: autoDraw = False
+7.7284 	EXP 	image: image = 'images/black3.jpg'
+7.7284 	EXP 	polygon: autoDraw = True
+8.2108 	EXP 	image: autoDraw = True
+8.2155 	EXP 	polygon: autoDraw = False
+10.2011 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'imgfile': 'images/green2.jpg', 'img_brightness': 'dark', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+10.2231 	WARNING 	t of last frame was 22.74ms (=1/43)
+10.2231 	EXP 	image: autoDraw = False
+10.2231 	EXP 	polygon: autoDraw = False
+10.2231 	EXP 	image: autoDraw = False
+10.2231 	EXP 	image: image = 'images/green2.jpg'
+10.2231 	EXP 	polygon: autoDraw = True
+10.7080 	EXP 	image: autoDraw = True
+10.7166 	EXP 	polygon: autoDraw = False
+12.7010 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'imgfile': 'images/black2.jpg', 'img_brightness': 'dark', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+12.7178 	EXP 	image: autoDraw = False
+12.7178 	EXP 	polygon: autoDraw = False
+12.7178 	EXP 	image: autoDraw = False
+12.7178 	EXP 	image: image = 'images/black2.jpg'
+12.7178 	EXP 	polygon: autoDraw = True
+13.2073 	EXP 	polygon: autoDraw = False
+13.2073 	EXP 	image: autoDraw = True
+15.1907 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'imgfile': 'images/red2.jpg', 'img_brightness': 'bright', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+15.2433 	WARNING 	t of last frame was 53.03ms (=1/18)
+15.2433 	EXP 	image: autoDraw = False
+15.2433 	EXP 	polygon: autoDraw = False
+15.2433 	EXP 	image: autoDraw = False
+15.2433 	EXP 	image: image = 'images/red2.jpg'
+15.2433 	EXP 	polygon: autoDraw = True
+15.7084 	EXP 	image: autoDraw = True
+15.7405 	EXP 	polygon: autoDraw = False
+17.7009 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'imgfile': 'images/white2.jpeg', 'img_brightness': 'dark', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+17.7316 	WARNING 	t of last frame was 31.47ms (=1/31)
+17.7316 	EXP 	image: autoDraw = False
+17.7316 	EXP 	polygon: autoDraw = False
+17.7316 	EXP 	image: autoDraw = False
+17.7316 	EXP 	image: image = 'images/white2.jpeg'
+17.7316 	EXP 	polygon: autoDraw = True
+18.2083 	EXP 	image: autoDraw = True
+18.2213 	EXP 	polygon: autoDraw = False
+20.2006 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'imgfile': 'images/darkblue1.jpg', 'img_brightness': 'dark', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+20.2179 	EXP 	image: autoDraw = False
+20.2179 	EXP 	polygon: autoDraw = False
+20.2179 	EXP 	image: autoDraw = False
+20.2179 	EXP 	image: image = 'images/darkblue1.jpg'
+20.2179 	EXP 	polygon: autoDraw = True
+20.7076 	EXP 	image: autoDraw = True
+20.7168 	EXP 	polygon: autoDraw = False
+22.7012 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'imgfile': 'images/green1.jpg', 'img_brightness': 'bright ', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+22.7236 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+22.7235 	EXP 	image: autoDraw = False
+22.7235 	EXP 	polygon: autoDraw = False
+22.7235 	EXP 	image: autoDraw = False
+22.7235 	EXP 	image: image = 'images/green1.jpg'
+22.7235 	EXP 	polygon: autoDraw = True
+23.2079 	EXP 	image: autoDraw = True
+23.2167 	EXP 	polygon: autoDraw = False
+25.2009 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'imgfile': 'images/shallowblue1.jpg', 'img_brightness': 'dark', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+25.2687 	EXP 	image: autoDraw = False
+25.2687 	EXP 	polygon: autoDraw = False
+25.2687 	EXP 	image: autoDraw = False
+25.2687 	EXP 	image: image = 'images/shallowblue1.jpg'
+25.2687 	EXP 	polygon: autoDraw = True
+25.7079 	EXP 	image: autoDraw = True
+25.7669 	EXP 	polygon: autoDraw = False
+27.7014 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'imgfile': 'images/white1.jpg', 'img_brightness': 'bright', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+27.7253 	EXP 	image: autoDraw = False
+27.7253 	EXP 	polygon: autoDraw = False
+27.7253 	EXP 	image: autoDraw = False
+27.7253 	EXP 	image: image = 'images/white1.jpg'
+27.7253 	EXP 	polygon: autoDraw = True
+28.2075 	EXP 	image: autoDraw = True
+28.2228 	EXP 	polygon: autoDraw = False
+30.2009 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'imgfile': 'images/red1.jpeg', 'img_brightness': 'dark', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+30.2199 	EXP 	image: autoDraw = False
+30.2199 	EXP 	polygon: autoDraw = False
+30.2199 	EXP 	image: autoDraw = False
+30.2199 	EXP 	image: image = 'images/red1.jpeg'
+30.2199 	EXP 	polygon: autoDraw = True
+30.7082 	EXP 	image: autoDraw = True
+30.7153 	EXP 	polygon: autoDraw = False
+32.7009 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'imgfile': 'images/black1.jpg', 'img_brightness': 'bright', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+32.7187 	EXP 	image: autoDraw = False
+32.7187 	EXP 	polygon: autoDraw = False
+32.7187 	EXP 	image: autoDraw = False
+32.7187 	EXP 	image: image = 'images/black1.jpg'
+32.7187 	EXP 	polygon: autoDraw = True
+33.2083 	EXP 	image: autoDraw = True
+33.2155 	EXP 	polygon: autoDraw = False
+35.2006 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'imgfile': 'images/yellow1.jpg', 'img_brightness': 'bright', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+35.2206 	EXP 	image: autoDraw = False
+35.2206 	EXP 	polygon: autoDraw = False
+35.2206 	EXP 	image: autoDraw = False
+35.2206 	EXP 	image: image = 'images/yellow1.jpg'
+35.2206 	EXP 	polygon: autoDraw = True
+35.7082 	EXP 	image: autoDraw = True
+35.7153 	EXP 	polygon: autoDraw = False
+37.7095 	INFO 	Keyboard events cleared
+37.7094 	EXP 	image: autoDraw = False
+37.7094 	EXP 	polygon: autoDraw = False
+37.7094 	EXP 	image: autoDraw = False
+37.7094 	EXP 	text_4: autoDraw = True
+68.1578 	EXP 	Device response: <KeyPress from None: t=68.15459595799985, value=space, duration=None>
+68.1700 	EXP 	Imported Interfernce_questions.xlsx as conditions, 5 conditions, 2 params
+68.1706 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'question': '2 + 1 = ?', 'correctAns': 3.0, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+68.1877 	DATA 	Keypress: space
+68.1910 	INFO 	Keyboard events cleared
+68.1909 	EXP 	text_4: autoDraw = False
+68.1909 	EXP 	text_2: height = np.float64(0.05)
+68.1909 	EXP 	text_2: height = np.float64(0.05)
+68.1909 	EXP 	text_2: height = np.float64(0.05)
+68.1909 	EXP 	text_2: text = '2 + 1 = ?'
+68.1909 	EXP 	text_2: autoDraw = True
+68.2672 	EXP 	Device response: <KeyPress from None: t=68.15459595799985, value=space, duration=0.10427175000222633>
+69.9355 	EXP 	Device response: <KeyPress from None: t=69.93261674899986, value=3, duration=None>
+69.9362 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'question': '1 + 3 = ?', 'correctAns': 4.0, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+69.9480 	DATA 	Keypress: 3
+69.9525 	INFO 	Keyboard events cleared
+69.9524 	EXP 	text_2: autoDraw = False
+69.9524 	EXP 	text_2: height = np.float64(0.05)
+69.9524 	EXP 	text_2: height = np.float64(0.05)
+69.9524 	EXP 	text_2: height = np.float64(0.05)
+69.9524 	EXP 	text_2: text = '1 + 3 = ?'
+69.9524 	EXP 	text_2: autoDraw = True
+70.0346 	EXP 	Device response: <KeyPress from None: t=69.93261674899986, value=3, duration=0.0962586250025197>
+72.2184 	EXP 	Device response: <KeyPress from None: t=72.21254045800015, value=4, duration=None>
+72.2191 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'question': '5 - 2 = ?', 'correctAns': 3.0, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+72.2324 	DATA 	Keypress: 4
+72.2370 	INFO 	Keyboard events cleared
+72.2369 	EXP 	text_2: autoDraw = False
+72.2369 	EXP 	text_2: height = np.float64(0.05)
+72.2369 	EXP 	text_2: height = np.float64(0.05)
+72.2369 	EXP 	text_2: height = np.float64(0.05)
+72.2369 	EXP 	text_2: text = '5 - 2 = ?'
+72.2369 	EXP 	text_2: autoDraw = True
+72.3520 	EXP 	Device response: <KeyPress from None: t=72.21254045800015, value=4, duration=0.12832591600090382>
+73.6678 	EXP 	Device response: <KeyPress from None: t=73.66451287400196, value=3, duration=None>
+73.6681 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'question': '4 - 1 = ?', 'correctAns': 3.0, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+73.6806 	DATA 	Keypress: 3
+73.6852 	INFO 	Keyboard events cleared
+73.6851 	EXP 	text_2: autoDraw = False
+73.6851 	EXP 	text_2: height = np.float64(0.05)
+73.6851 	EXP 	text_2: height = np.float64(0.05)
+73.6851 	EXP 	text_2: height = np.float64(0.05)
+73.6851 	EXP 	text_2: text = '4 - 1 = ?'
+73.6851 	EXP 	text_2: autoDraw = True
+73.8239 	EXP 	Device response: <KeyPress from None: t=73.66451287400196, value=3, duration=0.15631316699727904>
+75.7909 	EXP 	Device response: <KeyPress from None: t=75.78653958300129, value=3, duration=None>
+75.7913 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'question': '3 + 2 = ?', 'correctAns': 5.0, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+75.8008 	DATA 	Keypress: 3
+75.8051 	INFO 	Keyboard events cleared
+75.8050 	EXP 	text_2: autoDraw = False
+75.8050 	EXP 	text_2: height = np.float64(0.05)
+75.8050 	EXP 	text_2: height = np.float64(0.05)
+75.8050 	EXP 	text_2: height = np.float64(0.05)
+75.8050 	EXP 	text_2: text = '3 + 2 = ?'
+75.8050 	EXP 	text_2: autoDraw = True
+75.9852 	EXP 	Device response: <KeyPress from None: t=75.78653958300129, value=3, duration=0.18826995799827273>
+76.9852 	EXP 	Device response: <KeyPress from None: t=76.98143233299925, value=5, duration=None>
+76.9924 	DATA 	Keypress: 5
+76.9974 	INFO 	Keyboard events cleared
+76.9972 	EXP 	text_2: autoDraw = False
+76.9972 	EXP 	text_5: autoDraw = True
+77.1518 	EXP 	Device response: <KeyPress from None: t=76.98143233299925, value=5, duration=0.1683908330014674>
+83.1184 	EXP 	Device response: <KeyPress from None: t=83.1063658330022, value=space, duration=None>
+83.1365 	EXP 	Imported recognition_conditions.xlsx as conditions, 12 conditions, 4 params
+83.1370 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'imgfile': 'images/foil_yellow1.jpg', 'old_new': 'new', 'CorrectAns': 'n', 'img_brightness': 'bright', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+83.1517 	DATA 	Keypress: space
+83.1566 	INFO 	Keyboard events cleared
+83.1565 	EXP 	text_5: autoDraw = False
+83.1565 	EXP 	image_2: image = 'images/foil_yellow1.jpg'
+83.1565 	EXP 	image_2: autoDraw = True
+83.1874 	EXP 	Device response: <KeyPress from None: t=83.1063658330022, value=space, duration=0.07788049999726354>
+86.8853 	EXP 	Device response: <KeyPress from None: t=86.87495116600257, value=n, duration=None>
+86.8861 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'imgfile': 'images/foil_black2.jpg', 'old_new': 'new', 'CorrectAns': 'n', 'img_brightness': 'dark', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+86.9045 	DATA 	Keypress: n
+86.9092 	INFO 	Keyboard events cleared
+86.9091 	EXP 	image_2: autoDraw = False
+86.9091 	EXP 	image_2: image = 'images/foil_black2.jpg'
+86.9091 	EXP 	image_2: autoDraw = True
+87.1010 	EXP 	Device response: <KeyPress from None: t=86.87495116600257, value=n, duration=0.22036295799989603>
+87.8568 	EXP 	Device response: <KeyPress from None: t=87.85291266599961, value=n, duration=None>
+87.8573 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'imgfile': 'images/yellow1.jpg', 'old_new': 'old', 'CorrectAns': 'y', 'img_brightness': 'bright', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+87.8758 	DATA 	Keypress: n
+87.8806 	INFO 	Keyboard events cleared
+87.8806 	EXP 	image_2: autoDraw = False
+87.8806 	EXP 	image_2: image = 'images/yellow1.jpg'
+87.8806 	EXP 	image_2: autoDraw = True
+88.0351 	EXP 	Device response: <KeyPress from None: t=87.85291266599961, value=n, duration=0.17239875000086613>
+88.4519 	EXP 	Device response: <KeyPress from None: t=88.44243574900247, value=y, duration=None>
+88.4526 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'imgfile': 'images/foil_white2.jpeg', 'old_new': 'new', 'CorrectAns': 'n', 'img_brightness': 'dark', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+88.4531 	WARNING 	Requested image 'images/foil_white2.jpeg' not found but similar filename 'images/foil_white2.jpg' exists. This will be used instead but changing the filename is advised.
+88.4671 	DATA 	Keypress: y
+88.4716 	INFO 	Keyboard events cleared
+88.4716 	EXP 	image_2: autoDraw = False
+88.4716 	EXP 	image_2: image = 'images/foil_white2.jpeg'
+88.4716 	EXP 	image_2: autoDraw = True
+88.5401 	EXP 	Device response: <KeyPress from None: t=88.44243574900247, value=y, duration=0.09569087499767193>
+89.2404 	EXP 	Device response: <KeyPress from None: t=89.2388353330025, value=n, duration=None>
+89.2507 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'imgfile': 'images/foil_red1.jpeg', 'old_new': 'new', 'CorrectAns': 'n', 'img_brightness': 'dark', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+89.2517 	WARNING 	Requested image 'images/foil_red1.jpeg' not found but similar filename 'images/foil_red1.jpg' exists. This will be used instead but changing the filename is advised.
+89.2703 	DATA 	Keypress: n
+89.2749 	INFO 	Keyboard events cleared
+89.2748 	EXP 	image_2: autoDraw = False
+89.2748 	EXP 	image_2: image = 'images/foil_red1.jpeg'
+89.2748 	EXP 	image_2: autoDraw = True
+89.4070 	EXP 	Device response: <KeyPress from None: t=89.2388353330025, value=n, duration=0.16434158299671253>
+90.1852 	EXP 	Device response: <KeyPress from None: t=90.1779510410015, value=n, duration=None>
+90.1860 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'imgfile': 'images/foil_shallowblue1.jpeg', 'old_new': 'new', 'CorrectAns': 'n', 'img_brightness': 'dark', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+90.2382 	DATA 	Keypress: n
+90.2427 	INFO 	Keyboard events cleared
+90.2427 	EXP 	image_2: autoDraw = False
+90.2427 	EXP 	image_2: image = 'images/foil_shallowblue1.jpeg'
+90.2427 	EXP 	image_2: autoDraw = True
+90.3673 	EXP 	Device response: <KeyPress from None: t=90.1779510410015, value=n, duration=0.1842808330002299>
+90.9560 	EXP 	Device response: <KeyPress from None: t=90.9528221239998, value=n, duration=None>
+90.9564 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'imgfile': 'images/foil_green1.jpg', 'old_new': 'new', 'CorrectAns': 'n', 'img_brightness': 'bright', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+90.9787 	DATA 	Keypress: n
+90.9833 	INFO 	Keyboard events cleared
+90.9833 	EXP 	image_2: autoDraw = False
+90.9833 	EXP 	image_2: image = 'images/foil_green1.jpg'
+90.9833 	EXP 	image_2: autoDraw = True
+91.1572 	EXP 	Device response: <KeyPress from None: t=90.9528221239998, value=n, duration=0.2003735840007721>
+91.9686 	EXP 	Device response: <KeyPress from None: t=91.95583208300013, value=n, duration=None>
+91.9694 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'imgfile': 'images/black2.jpg', 'old_new': 'old', 'CorrectAns': 'y', 'img_brightness': 'dark', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+91.9831 	DATA 	Keypress: n
+91.9877 	INFO 	Keyboard events cleared
+91.9876 	EXP 	image_2: autoDraw = False
+91.9876 	EXP 	image_2: image = 'images/black2.jpg'
+91.9876 	EXP 	image_2: autoDraw = True
+92.1517 	EXP 	Device response: <KeyPress from None: t=91.95583208300013, value=n, duration=0.18831887499982258>
+92.5682 	EXP 	Device response: <KeyPress from None: t=92.55974016600157, value=y, duration=None>
+92.5685 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'imgfile': 'images/white1.jpg', 'old_new': 'old', 'CorrectAns': 'y', 'img_brightness': 'bright', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+92.5850 	DATA 	Keypress: y
+92.5897 	INFO 	Keyboard events cleared
+92.5896 	EXP 	image_2: autoDraw = False
+92.5896 	EXP 	image_2: image = 'images/white1.jpg'
+92.5896 	EXP 	image_2: autoDraw = True
+92.7243 	EXP 	Device response: <KeyPress from None: t=92.55974016600157, value=y, duration=0.1603906249983993>
+93.3519 	EXP 	Device response: <KeyPress from None: t=93.34580791600092, value=y, duration=None>
+93.3527 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'imgfile': 'images/shallowblue1.jpg', 'old_new': 'old', 'CorrectAns': 'y', 'img_brightness': 'dark', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+93.4170 	DATA 	Keypress: y
+93.4205 	INFO 	Keyboard events cleared
+93.4204 	EXP 	image_2: autoDraw = False
+93.4204 	EXP 	image_2: image = 'images/shallowblue1.jpg'
+93.4204 	EXP 	image_2: autoDraw = True
+93.4830 	EXP 	Device response: <KeyPress from None: t=93.34580791600092, value=y, duration=0.12421391699899687>
+94.0021 	EXP 	Device response: <KeyPress from None: t=93.99074154100163, value=y, duration=None>
+94.0028 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'imgfile': 'images/red1.jpeg', 'old_new': 'old', 'CorrectAns': 'y', 'img_brightness': 'dark', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+94.0234 	DATA 	Keypress: y
+94.0281 	INFO 	Keyboard events cleared
+94.0280 	EXP 	image_2: autoDraw = False
+94.0280 	EXP 	image_2: image = 'images/red1.jpeg'
+94.0280 	EXP 	image_2: autoDraw = True
+94.1346 	EXP 	Device response: <KeyPress from None: t=93.99074154100163, value=y, duration=0.13631945800079848>
+94.6019 	EXP 	Device response: <KeyPress from None: t=94.59381791600026, value=y, duration=None>
+94.6026 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'imgfile': 'images/black3.jpg', 'old_new': 'old', 'CorrectAns': 'y', 'img_brightness': 'bright', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+94.6180 	DATA 	Keypress: y
+94.6226 	INFO 	Keyboard events cleared
+94.6225 	EXP 	image_2: autoDraw = False
+94.6225 	EXP 	image_2: image = 'images/black3.jpg'
+94.6225 	EXP 	image_2: autoDraw = True
+94.7402 	EXP 	Device response: <KeyPress from None: t=94.59381791600026, value=y, duration=0.14425279200077057>
+95.3399 	EXP 	Device response: <KeyPress from None: t=95.33870008300073, value=y, duration=None>
+95.3463 	DATA 	Keypress: y
+95.3520 	INFO 	Keyboard events cleared
+95.3519 	EXP 	image_2: autoDraw = False
+95.3519 	EXP 	text_3: autoDraw = True
+95.5018 	EXP 	Device response: <KeyPress from None: t=95.33870008300073, value=y, duration=0.15243008299876237>
+103.9685 	EXP 	Device response: <KeyPress from None: t=103.9578150410016, value=n, duration=None>
+103.9754 	DATA 	Keypress: n
+103.9805 	EXP 	text_3: autoDraw = False
+103.9805 	EXP 	text_6: autoDraw = True
+104.0742 	EXP 	Device response: <KeyPress from None: t=103.9578150410016, value=n, duration=0.11390445799770532>
+104.9706 	EXP 	text_6: autoDraw = False
+104.9706 	EXP 	text_6: autoDraw = False
+104.9707 	EXP 	brightness_memory_soloproject: status = STOPPED
+104.9876 	INFO 	saved data to '/Users/siddhirathod/Desktop/psychopy-lab/SoloProject/data/6_brightness_memory_soloproject_2025-11-17_17h26.30.014.csv'
+104.9893 	INFO 	saved data to /Users/siddhirathod/Desktop/psychopy-lab/SoloProject/data/6_brightness_memory_soloproject_2025-11-17_17h26.30.014.psydat
+105.1213 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+105.1213 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+105.1213 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+105.1213 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+105.1213 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+105.1213 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+105.1213 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
